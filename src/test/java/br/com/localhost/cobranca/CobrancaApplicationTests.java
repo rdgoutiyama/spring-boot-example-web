@@ -11,6 +11,7 @@ public class CobrancaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
 	}
 
 }
